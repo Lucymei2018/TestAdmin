@@ -1,0 +1,13 @@
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\bin\Debug\TestAdmin.exe
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\bin\Debug\TestAdmin.pdb
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\bin\Debug\TestAdmin.xml
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Resources.resources
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.vbproj.GenerateResource.Cache
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.exe
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.xml
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.pdb
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.AdminStart.resources
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function1.resources
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function2.resources
+C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function3.resources
