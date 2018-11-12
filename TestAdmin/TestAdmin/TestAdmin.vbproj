@@ -91,6 +91,18 @@
     <Compile Include="Function3.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Function4.Designer.vb">
+      <DependentUpon>Function4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Function4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Function5.Designer.vb">
+      <DependentUpon>Function5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Function5.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
